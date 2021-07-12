@@ -1,0 +1,8 @@
+[('South', 'NA'), ('Bridge', 'NA'), ('Road', 'NA'), ('Raffles', 'NA'), ('Place', 'NA'), ('Clarke', 'NA'), ('Quay', 'NA')]
+{'word': 'South', 'street_name': 0, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.0, 'country': 0, 'prev_word': '', 'next_word': 'Bridge', 'num_alpha': 5, 'num_digit': 0}
+{'word': 'Bridge', 'street_name': 1, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.14285714285714285, 'country': 0, 'prev_word': 'South', 'next_word': 'Road', 'num_alpha': 6, 'num_digit': 0}
+{'word': 'Road', 'street_name': 1, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.2857142857142857, 'country': 0, 'prev_word': 'Bridge', 'next_word': 'Raffles', 'num_alpha': 4, 'num_digit': 0}
+{'word': 'Raffles', 'street_name': 0, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.42857142857142855, 'country': 0, 'prev_word': 'Road', 'next_word': 'Place', 'num_alpha': 7, 'num_digit': 0}
+{'word': 'Place', 'street_name': 1, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.5714285714285714, 'country': 0, 'prev_word': 'Raffles', 'next_word': 'Clarke', 'num_alpha': 5, 'num_digit': 0}
+{'word': 'Clarke', 'street_name': 0, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.7142857142857143, 'country': 0, 'prev_word': 'Place', 'next_word': 'Quay', 'num_alpha': 6, 'num_digit': 0}
+{'word': 'Quay', 'street_name': 0, 'floorwords': 0, 'orgwords': 0, 'placenamewords': 0, 'indandlen': 0.8571428571428571, 'country': 0, 'prev_word': 'Clarke', 'next_word': '', 'num_alpha': 4, 'num_digit': 0}
